@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" class="scalingsymbol" viewBox="72 72 880 880">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="72 72 880 880">
     <defs>
         <linearGradient id="plate-fill" x1="-.2" y1="-.2" x2=".8" y2=".8">
             <stop offset="0" stop-color="#5a62c4"/>
