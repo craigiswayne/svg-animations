@@ -4,6 +4,7 @@
 | Description                            | Preview                                                 |
 |----------------------------------------|---------------------------------------------------------| 
 | Microsoft Teams Logo Animation Shimmer | ![microsoft-teams-logo.svg](./microsoft-teams-logo.svg) |
+| Lucy's Trail from GDQuest.com          | ![gd-quest-lucy-trail.svg](./gdquest-lucy-trail.svg)    |
 
 -----
 
