@@ -8,6 +8,7 @@
 | SVG Gator's Login Girl                 | ![svg-gator-log-in-girl.svg](./svg-gator-log-in-girl.svg) | https://app.svgator.com/auth/register                                     |
 | SkyBox AI Rotating Globe               | ![skybox-ai-globe.svg](./skybox-ai-globe.svg)             | https://skybox.blockadelabs.com/                                          |
 | Solar System                           | ![solar-system.svg](./solar-system.svg)                   | https://stackoverflow.com/questions/55850691/svg-element-rotate-on-circle |
+| Grok Loader                            | ![grok-loader.svg](./grok-loader.svg)                     | https://grok.com                                                          |
 
 -----
 
